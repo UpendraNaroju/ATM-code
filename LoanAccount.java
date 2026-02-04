@@ -2,7 +2,7 @@ package com.atm_code;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
-
+//added by upendra
 public class LoanAccount implements Account {
 	final static long account_Number = 784656789201L;
 
@@ -55,3 +55,4 @@ public class LoanAccount implements Account {
 	}
 
 }
+
